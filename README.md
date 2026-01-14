@@ -4,3 +4,5 @@ Arduino Leonardo ile gpu,cpu sıcaklığı ve ram kullanımını lcd ekranda tak
 Bu projede bilgisayardan CPU, GPU ve RAM bilgilerini almak için
 Python dili kullanılmıştır. Alınan veriler seri port üzerinden
 Arduino Leonardo’ya gönderilmektedir.
+## Proje Görüntüsü
+![LCD Output](lcd_project.png)
